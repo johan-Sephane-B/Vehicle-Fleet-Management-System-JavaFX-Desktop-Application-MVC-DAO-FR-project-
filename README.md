@@ -219,28 +219,6 @@ Password: admin123
 - One driver → Many missions
 - One vehicle → One active insurance policy
 
-*Note: Detailed ER diagram available in `/docs/database_schema.png`*
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-*Main dashboard showing fleet statistics and alerts*
-
-### Vehicle Management
-![Vehicle List](screenshots/vehicle_list.png)
-*Vehicle inventory with filtering and search*
-
-### Mission Tracking
-![Missions](screenshots/missions.png)
-*Active missions and assignment management*
-
-### Reports
-![Reports](screenshots/reports.png)
-*Comprehensive reporting interface*
-
-*Note: Add actual screenshots to `/screenshots` folder*
-
 ## 📚 Project Context
 
 **Academic Project** - MIAGE Program  
@@ -295,7 +273,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Johan Stéphane BAHOU**  
 - Email: stephanejohanbahou@gmail.com
 - GitHub: [@johan-Sephane-B](https://github.com/johan-Sephane-B)
-- LinkedIn: [Your LinkedIn Profile]
 - Location: Abidjan, Côte d'Ivoire
 
 ## 🙏 Acknowledgments
